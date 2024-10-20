@@ -1,0 +1,20 @@
+﻿# Configuration file template for the Telegram-Eitaa-Bale bot
+# Replace the placeholder values with your actual data, but keep this file secure
+
+# Comma-separated list of admin user IDs (Telegram user IDs)
+Admins=ADMIN_ID_1,ADMIN_ID_2
+
+# Telegram Bot API Token
+TelegramBotToken=YOUR_TELEGRAM_BOT_TOKEN
+
+# Eitaa API Token
+EitaaApiToken=YOUR_EITAA_API_TOKEN
+
+# Eitaa Channel Identifier (can be a numeric ID or a username without @)
+EitaaChannelIdentifier=YOUR_EITAA_CHANNEL_IDENTIFIER
+
+# Bale Bot Token
+BaleBotToken=YOUR_BALE_BOT_TOKEN
+
+# Bale Destination Channel ID (numeric ID)
+BaleDestinationChannelId=YOUR_BALE_CHANNEL_ID
